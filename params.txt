@@ -2,3 +2,5 @@
 :w
 
 iio[
+
+Git has a mutable index called stage.
