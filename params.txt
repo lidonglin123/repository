@@ -1,4 +1,4 @@
-thx
+#! /use/bin/env python
 :w
 
 iio[
